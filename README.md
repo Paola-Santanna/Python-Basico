@@ -1,7 +1,7 @@
 # Python-Basico
 Estudo sobre a linguagem de programação Python
 
-<h1>Para Quê Serve?</h1>
+<h1>Python no Mundo</h1>
 <h1>Formatação de Saída</h1>
 <h1>Tipos de Variáveis</h1>
 <h1>Estruturas Condicionais</h1>
